@@ -1,0 +1,53 @@
+body{
+    background: #F7ECDE;
+}
+.input{
+    background-color:#E9DAC1;
+    margin: 50px 50px 30px 50px;
+}
+.flowchart {
+    font-family:'Courier New', Courier, monospace; 
+    text-align: center;
+}
+.label {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.hasil {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+    background-color:#E9DAC1;
+    margin: 0px 50px;
+}
+.button {
+    border: 1px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background: #d6c19f;
+    cursor: pointer;
+}
+.nama {
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    height: 18px;
+    outline: none;
+    width: 100px;
+    border-top: 3px;
+    border-left: 3px;
+    border-right: 3px;
+    background-color: #E9DAC1;
+}
+input {
+    border-top: 3px;
+    border-left: 3px;
+    border-right: 3px;
+    outline: none;
+    background-color: #E9DAC1;
+}
+.link {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: black;
+}
